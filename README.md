@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme! 😁
 
-- 📚 Eu estou me aperfoiçoando em React.JS
+- 📚 Eu estou me aperfoiçoando em Javascript
 - 🌴 Moro em São Paulo - SP
 - 🔍 Estou buscando vagas de Desenvolvedor | Front-End
 
