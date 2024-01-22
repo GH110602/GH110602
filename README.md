@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Guilherme! 😁
 
-- 📚 Eu estou me aperfoiçoando em Javascript
+- 📚 Eu estou me aperfoiçoando em Python
 - 🌴 Moro em São Paulo - SP
-- 🔍 Estou buscando vagas de Desenvolvedor | Front-End
+- 🔍 Estou buscando vagas de Desenvolvedor
 
 
 <div align="center">
